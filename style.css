@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet');
+
+:root {
+   bs-success-rgb:122,135,84;
+  --bs-font-sans-serif: "Karla", sans-serif;
+  --bs-body-font-family: var(--bs-font-sans-serif);
+}
